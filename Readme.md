@@ -3,7 +3,7 @@ Alternate approach to Kstreams using spark. The temperature status is calculated
 
 Architecture:
 
-[![CodeQL](https://github.com/appuv/KafkaTemperatureAnalyticsSpark/actions/workflows/codeql.yml/badge.svg)](https://github.com/appuv/KafkaTemperatureAnalyticsSpark/actions/workflows/codeql.yml) [![Java CI with Maven](https://github.com/appuv/KafkaTemperatureAnalyticsSpark/actions/workflows/maven.yml/badge.svg)](https://github.com/appuv/KafkaTemperatureAnalyticsSpark/actions/workflows/maven.yml)
+[![CodeQL](https://github.com/appuv/KafkaTemperatureAnalyticsSpark/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/appuv/KafkaTemperatureAnalyticsSpark/actions/workflows/github-code-scanning/codeql) [![Java CI with Maven](https://github.com/appuv/KafkaTemperatureAnalyticsSpark/actions/workflows/maven.yml/badge.svg)](https://github.com/appuv/KafkaTemperatureAnalyticsSpark/actions/workflows/maven.yml)
 
 ## Prerequisite
 1. [Java 17](https://www.azul.com/downloads/?version=java-17-lts&package=jdk)
