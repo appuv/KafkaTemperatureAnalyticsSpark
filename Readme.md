@@ -3,7 +3,7 @@ Alternate approach to Kstreams using spark. The temperature status is calculated
 
 Architecture:
 
-[![CodeQL](https://github.com/appuv/KafkaTemperatureAnalyticsSpark/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/appuv/KafkaTemperatureAnalyticsSpark/actions/workflows/github-code-scanning/codeql) [![Java CI with Maven](https://github.com/appuv/KafkaTemperatureAnalyticsSpark/actions/workflows/maven.yml/badge.svg)](https://github.com/appuv/KafkaTemperatureAnalyticsSpark/actions/workflows/maven.yml)
+[![CodeQL](https://github.com/appuv/KafkaTemperatureAnalyticsSpark/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/appuv/KafkaTemperatureAnalyticsSpark/actions/workflows/github-code-scanning/codeql) [![Java CI with Maven](https://github.com/appuv/KafkaTemperatureAnalyticsSpark/actions/workflows/maven.yml/badge.svg)](https://github.com/appuv/KafkaTemperatureAnalyticsSpark/actions/workflows/maven.yml) [![License](https://img.shields.io/github/license/appuv/KafkaTemperatureAnalyticsSpark)](https://github.com/appuv/KafkaTemperatureAnalyticsSpark/blob/main/LICENSE) [![GitHub top language](https://img.shields.io/github/languages/top/appuv/KafkaTemperatureAnalyticsSpark)]([https://github.com/appuv/KafkaTemperatureAnalyticsSpark](https://img.shields.io/github/languages/top/appuv/KafkaTemperatureAnalyticsSpark))
 
 ## Prerequisite
 1. [Java 17](https://www.azul.com/downloads/?version=java-17-lts&package=jdk)
