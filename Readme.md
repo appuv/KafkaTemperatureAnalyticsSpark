@@ -40,9 +40,12 @@ kafka-console-consumer.bat --bootstrap-server localhost:9092 --topic spark_desti
 
 
 intellij (After enabling vm options)
-
+```
 --add-exports java.base/sun.nio.ch=ALL-UNNAMED"
+```
 
+## Alternatives
+[KafkaTemperatureAnalytics](https://github.com/appuv/KafkaTemperatureAnalytics)  | [KafkaTemperatureAnalyticsFlink](https://github.com/appuv/KafkaTemperatureAnalyticsFlink)
 
 
 
